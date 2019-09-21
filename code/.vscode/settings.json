@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/usr/local/bin/python",
-    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=8d16f89c99725a46073fb32a78ea2c79d0d57e3a414a7b7e"
+    "python.pythonPath": "/Users/matthewimac/.virtualenvs/myvenv/bin/python",
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=e8a4891a389ebd8a3fa81c088aa06f9fa0d76e003fc1218a"
 }
